@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [rinotech-back](https://github.com/tech2life-edu)
 
-- 👨‍💻 All of my projects are available at [https://github.com/cristian-camilo-dev](https://github.com/cristian-camilo-dev)
+- 👨‍💻 All of my projects are available at [https://github.com/cristian-camilo-dev](https://cristianrodriguez.netlify.app/)
 
 - 📫 How to reach me **cristianrodrig149@gmail.com**
 
