@@ -7,8 +7,6 @@
 
 - 👯 Colaboro en [rinotech-back](https://github.com/tech2life-edu)
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://cristianrodriguez.netlify.app/](https://cristianrodriguez.netlify.app/)
-
 - 📫 Como llegar a mi **cristianrodrig149@gmail.com**
 
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/cristian-camilo-rodriguez-dev/](https://www.linkedin.com/in/cristian-camilo-rodriguez-dev/)
