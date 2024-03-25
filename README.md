@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Cristhian Camilo Rodríguez</h1>
-<h3 align="center">Desarrollador de aplicaciones web, apasionado de la tecnología con muchas ganas de aprender y buscando mi primera oportunidad laboral, tengo conocimientos Front-End (HTML, CSS, JavaScript) y Back-End (Node)</h3>
+<h3 align="center"> Web UI Junior, ofrezco una combinación única de habilidades técnicas en Front-End y Back-End, una pasión inquebrantable por la tecnología, y un compromiso firme con la resolución creativa de problemas. Estoy listo para aportar mi entusiasmo y conocimientos a su equipo y contribuir al éxito de sus proyectos digitales</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristian-camilo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="cristian-camilo-dev" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [DISCOVERFY](https://github.com/DISCOVERFY)
+- 🔭 Actualmente estoy trabajando
 
 - 👯 Colaboro en [rinotech-back](https://github.com/tech2life-edu)
 
